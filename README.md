@@ -8,4 +8,4 @@ MIT
 =======
 # Payware
 
-Payware product from Aakvatech
+Payware product from Aakvatech Limited
